@@ -18,15 +18,4 @@ From there you will need to figure out:
 
 You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
 
-# Debugging challenge
 
-Try running this code and type `5`.
-
-It will give you an `IndexError` and point to line 32 as the issue. 
-
-But on line 38 we are trying to prevent a crash by detecting any numbers great than or equal to 3 or less than 0.
-
-So what's going on? Can you debug the code and fix it?
-
-# Solution to the debugging challenge
-[https://repl.it/@appbrewery/rock-paper-scissors-debugged-end](https://repl.it/@appbrewery/rock-paper-scissors-debugged-end)
